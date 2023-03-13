@@ -856,11 +856,11 @@ body {
 }
 
 .bg-1QIAus {
-  background: var(--background-image, url(https://saltssaumure.github.io/synthesis-discord-theme/backgrounds/default.png)) center/cover;
+  background: var(--background-image, url(https://i.imgur.com/PzOJVYq.png)) center/cover;
 }
 
 .container-1eFtFS {
-  border: 10px solid rgb(88, 101, 242);
+  border: 10px solid rgba(132, 57, 151, 0.4);
   margin: 30px;
   margin-top: 10px;
   border-radius: 30px;
@@ -899,11 +899,11 @@ body {
   border-radius: 0 0 10px 10px;
 }
 .titleBar-1it3bQ::before {
-  content: var(--title-text, "Synthesis v1.2");
+  content: var(--title-text, "The Edge");
   font-family: var(--font-display);
   font-weight: 500;
-  color: var(--text-muted);
-  text-shadow: 0 0 5px rgb(255, 165, 0);
+  color: rgb(145, 7, 163);
+  text-shadow: 0 0 5px rgb(107, 6, 121);
   position: absolute;
   top: -4px;
   left: 0;
@@ -1599,7 +1599,7 @@ body {
 }
 
 .standardSidebarView-E9Pc3j {
-  border: 10px solid rgb(88, 101, 242);
+  border: 10px solid rgba(132, 57, 151, 0.4);
   margin: 30px;
   margin-top: 10px;
   border-radius: 30px;
